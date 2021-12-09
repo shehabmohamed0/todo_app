@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "923860141399",
+    "project_id": "time-ticker-c0c58",
+    "storage_bucket": "time-ticker-c0c58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923860141399:android:3e539cc287e36bc2fcaa12",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923860141399-0s6qkik4moblhbm61jcjat5fnv9mqcb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todo_app",
+            "certificate_hash": "31609bb9cdd7dabeae02f02a29753441c5a45d51"
+          }
+        },
+        {
+          "client_id": "923860141399-ekfeb547dflgqkl2qbbbnoh7fhtl43m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ75o8wabXI1o4aILzj6c7wK4dMN8TdnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923860141399-ekfeb547dflgqkl2qbbbnoh7fhtl43m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
